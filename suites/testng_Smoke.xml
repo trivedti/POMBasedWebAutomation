@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" thread-count="2">
+
+	<test name="Smoke_Test">
+		<groups>
+			<run>
+				<include name="smoke"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="com.syno.testScripts.ClientTest" />
+			<!-- <class name="com.syno.testScripts.QATest" /> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

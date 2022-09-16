@@ -1,0 +1,7 @@
+test-output/
+target/
+src/test/resources/executionsReports/
+src/test/resources/testData/impressions/**/*.csv
+src/test/resources/testData/impressions/**/*.txt
+
+

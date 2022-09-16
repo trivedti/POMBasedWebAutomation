@@ -1,0 +1,269 @@
+2022-09-15 18:13:29,468 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:13:29,472 [main] INFO  com.syno.pages.ClientPage - STEP: Assets Page Locators loaded into memory
+2022-09-15 18:13:57,886 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:13:57,892 [main] INFO  com.syno.pages.ClientPage - STEP: Assets Page Locators loaded into memory
+2022-09-15 18:14:26,511 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:14:26,515 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:14:46,503 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:14:46,546 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:14:48,610 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:14:48,632 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:14:56,319 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:14:56,319 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:14:56,544 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:14:56,697 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:14:56,908 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:14:59,508 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:15:01,449 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:15:01,725 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:15:01,884 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:15:02,006 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:15:03,530 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:15:03,542 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:15:03,546 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:15:09,717 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:15:09,717 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:15:09,854 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:15:09,973 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:15:10,111 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:15:12,192 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:15:14,405 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:15:14,665 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:15:14,816 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:15:14,940 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:15:16,502 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:15:31,162 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:15:31,166 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:15:31,606 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:15:31,618 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:15:37,885 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:15:37,886 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:15:38,117 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:15:38,258 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:15:38,414 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:15:41,205 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:15:43,091 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:15:43,397 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:15:43,577 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:15:43,723 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:15:45,333 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:15:45,345 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:15:45,351 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:15:51,292 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:15:51,292 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:15:51,465 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:15:51,600 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:15:51,742 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:15:53,746 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:15:55,623 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:15:55,852 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:15:55,997 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:15:56,124 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:15:57,682 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:17:30,111 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:17:30,115 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:17:30,557 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:17:30,567 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:17:37,535 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:17:37,535 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:17:37,760 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:17:37,895 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:17:38,033 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:17:40,212 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:17:42,176 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:17:42,485 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:17:42,648 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:17:42,778 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:17:44,373 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:17:44,387 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:17:44,392 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:17:50,362 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:17:50,362 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:17:50,493 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:17:50,630 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:17:50,779 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:17:52,873 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:17:54,747 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:17:55,017 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:17:55,191 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:17:55,435 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:17:57,050 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:20:47,645 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:20:47,649 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:20:48,153 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:20:48,166 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:20:55,077 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:20:55,078 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:20:55,329 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:20:55,476 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:20:55,630 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:20:57,983 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:21:00,100 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:21:00,365 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:21:00,534 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:21:00,664 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:21:02,237 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:21:02,251 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:21:02,254 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:21:08,218 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:21:08,218 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:21:08,355 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:21:08,475 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:21:08,618 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:21:10,780 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:21:13,008 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:21:13,231 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:21:13,382 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:21:13,507 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:21:14,979 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:28:52,510 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:28:52,516 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:28:52,993 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:28:53,003 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:29:01,524 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:29:01,524 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:29:01,698 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:29:01,816 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:29:01,954 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:29:03,913 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:29:06,062 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:29:06,267 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:29:06,384 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:29:06,505 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:29:07,928 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:29:07,936 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:29:07,939 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:29:13,956 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:29:13,957 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:29:14,059 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:29:14,148 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:29:14,253 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:29:16,317 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:29:18,909 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:29:19,114 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:29:19,231 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:29:19,345 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:29:20,851 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:31:26,741 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:31:26,745 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:31:27,183 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:31:27,192 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:31:34,098 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:31:34,099 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:31:34,252 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:31:34,363 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:31:34,495 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:31:36,476 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:31:38,697 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:31:38,893 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:31:39,041 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:31:39,171 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:31:40,647 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:31:40,658 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:31:40,663 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:31:46,564 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:31:46,565 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:31:46,685 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:31:46,766 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:31:46,866 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:31:49,554 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:31:51,439 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:31:51,694 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:31:51,852 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:31:51,969 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:31:53,610 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:36:47,579 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:36:47,584 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:36:48,012 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:36:48,023 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:36:55,080 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:36:55,081 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:36:55,264 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:36:55,384 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:36:55,518 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:36:57,618 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:36:59,831 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:37:00,136 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:37:00,368 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:37:00,619 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:37:03,906 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Save Changes button
+2022-09-15 18:41:30,596 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:41:30,599 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:41:31,030 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:41:31,041 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:41:38,065 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:41:38,066 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:41:38,205 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:41:38,318 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:41:38,447 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:41:40,525 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:41:42,896 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:41:43,165 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:41:43,292 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:41:43,432 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:41:46,549 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Save Changes button
+2022-09-15 18:41:46,865 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:41:46,868 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:41:52,968 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:41:52,968 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:41:53,077 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:41:53,167 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:41:53,288 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:41:55,429 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:41:57,667 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:41:57,885 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:41:58,010 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:41:58,172 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:42:01,272 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Save Changes button
+2022-09-15 18:49:54,600 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:49:54,603 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:49:55,032 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:49:55,041 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:50:05,350 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:50:05,351 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:50:05,567 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:50:05,699 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:50:05,852 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:50:08,029 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:50:10,337 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:50:10,577 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:50:10,713 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:50:10,864 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:50:14,007 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Save Changes button
+2022-09-15 18:50:14,283 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:50:14,291 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:50:21,865 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:50:21,865 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:50:22,027 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:50:22,143 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:50:22,255 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:50:24,435 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:50:27,664 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2022-09-15 18:51:05,291 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2022-09-15 18:51:05,296 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2022-09-15 18:51:05,851 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:51:05,866 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:51:12,720 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:51:12,720 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:51:12,954 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:51:13,082 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:51:13,243 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:51:16,357 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:51:18,654 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:51:18,946 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:51:19,147 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:51:19,334 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:51:22,491 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Save Changes button
+2022-09-15 18:51:24,874 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-15 18:51:24,879 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-15 18:51:31,369 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2022-09-15 18:51:31,370 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/en/dashboard loaded
+2022-09-15 18:51:31,520 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
+2022-09-15 18:51:31,619 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
+2022-09-15 18:51:31,749 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2022-09-15 18:51:33,841 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2022-09-15 18:51:36,065 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Add Client button.
+2022-09-15 18:51:36,357 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered first name for Asset
+2022-09-15 18:51:36,523 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered last name for client
+2022-09-15 18:51:36,679 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Entered mobile number for client
+2022-09-15 18:51:39,804 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.ClientPage - STEP: Clicked on Save Changes button
