@@ -10,7 +10,7 @@ import com.syno.enums.clients.AddClient;
 
 
 @Listeners(ITestListeners.class)
-public class ClientTest extends TestBase {
+public class ClientTest2 extends TestBase {
 
 	/*
 	 * @author - Trivetim
@@ -28,6 +28,15 @@ public class ClientTest extends TestBase {
 		boolean clientManagementPageFlag = clientPage.goToClientManagement();
 		reportStep(clientManagementPageFlag, "info", "On Clients management page.", "Clients management is not opened.");
 
+		// Test Step : Click on Add new client button.
+		//clientPage.goToAddClientPage();
+		boolean AddClientPageFlag = clientPage.goToAddClientPage();
+		reportStep(AddClientPageFlag, "info", "On Create Client Page.", "Create Client is not opened.");
+		
+		// Test Step : Enter client informations and click on submit button.
+		boolean clientCreationFlag =clientPage.createClient(AddClient.John.toString(),AddClient.Rovek.toString(),AddClient.MobileNumber.value); 
+
+		reportStep(clientCreationFlag, "pass", "Client is created successfully","Client is not created successfully");
 	}
 
 	/*
@@ -42,5 +51,18 @@ public class ClientTest extends TestBase {
 		boolean flagForSuccessfulLogin = homePage.loginOnTuftPlatform(getEmailAddress(), getPasswordAddress());
 		reportStep(flagForSuccessfulLogin, "pass", "Login Successfully.", "Login failed.");
 
+		// Test Step : Click on Clients Management menu
+		boolean clientManagementPageFlag = clientPage.goToClientManagement();
+		reportStep(clientManagementPageFlag, "info", "On Clients management page.", "Clients management is not opened.");
+
+		// Test Step : Click on Add new client button.
+		//clientPage.goToAddClientPage();
+		boolean createClientPageFlag = clientPage.goToAddClientPage();
+		reportStep(createClientPageFlag, "info", "On Create Client Page.", "Create Client is not opened.");
+		
+		// Test Step : Enter client informations and click on submit button.
+		boolean clientCreationFlag =clientPage.createClient(AddClient.John.toString(),AddClient.Rovek.toString(),AddClient.MobileNumber.value); 
+
+		reportStep(clientCreationFlag, "pass", "Client is created successfully","Client is not created successfully");
 	}
 }

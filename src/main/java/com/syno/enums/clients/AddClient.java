@@ -3,7 +3,7 @@ package com.syno.enums.clients;
 public enum AddClient {
 	John("John"),
 	Rovek("Rovek"),
-	MobileNumber("7890062990");
+	MobileNumber("7878679466");
 	
 	
 public final String value;

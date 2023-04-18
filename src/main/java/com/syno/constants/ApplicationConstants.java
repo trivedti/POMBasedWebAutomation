@@ -4,7 +4,7 @@ import java.util.Base64;
 
 public abstract class ApplicationConstants {
 
-	public static String URL = "https://uat.tuftapp.com/en/dashboard";
+	public static String URL = "https://uat.tuftapp.com/authentication/login";
 	public static String BROWSER = "chrome";
 	public static String ENVIRONMENT = "qa";
 

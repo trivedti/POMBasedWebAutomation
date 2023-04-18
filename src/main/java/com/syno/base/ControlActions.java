@@ -159,6 +159,7 @@ public abstract class ControlActions {
 		boolean elementDisplay;
 		try {
 			element = getElement(locator);
+			
 			elementDisplay = element.isDisplayed();
 			log.debug("STEP: Element displayed in screen viewport");
 		} catch (Exception e) {

@@ -64,6 +64,24 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<repositories>
+	<repository>
+  <id>CICDPipeLineQA</id>
+  <url>http://tfs-2020:8080/tfs/Microsoft%20Product%20Server%20and%20Technologies/CICDPipeLineQA/_packaging/CICDPipeLineQA/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
+</repositories>
+
+
+
+
+
 	<dependencies>
 
 		<dependency>

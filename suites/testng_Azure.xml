@@ -5,7 +5,7 @@
 
 	<test name="All_Test_Cases">
 		<classes>
-			<class name="com.cs.testScripts.ImpressionLogTest" />
+			<class name="com.cs.testScripts.Test" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
