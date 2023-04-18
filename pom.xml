@@ -48,7 +48,7 @@
 					<reuseForks>true</reuseForks>
 <!--				<argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>-->
 					<suiteXmlFiles>
-						<suiteXmlFile>suites/testng.xml</suiteXmlFile>
+						<suiteXmlFile>suites\testng_Regression.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
@@ -62,7 +62,8 @@
 					<nohelp>true</nohelp>
 				</configuration>
 			</plugin>
-		</plugins>
+		
+</plugins>
 	</build>
 	
 	<repositories>
@@ -77,10 +78,6 @@
   </snapshots>
 </repository>
 </repositories>
-
-
-
-
 
 	<dependencies>
 

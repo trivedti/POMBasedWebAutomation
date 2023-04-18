@@ -54,11 +54,17 @@ public class AzureUtils {
 	public int getInnerUniqueLinkedTestCaseIDFromAzure(int testCaseID) throws Exception {
 		Map<String, String> param = new HashMap<>();
 		param.put("api-version", "5.1");
-		String path = "/Microsoft%20Product%20Server%20and%20Technologies/Synoverge%20QAL/_apis/testplan/Plans/" + prop.getProperty("testPlanID")
-				+ "/Suites/" + prop.getProperty("testSuiteID") + "/TestCase";
+		String path = "Microsoft%20Product%20Server%20and%20Technologies/CICDPipeLineQA/_testPlans/define?planId/" + prop.getProperty("testPlanID")
+				+ "/suiteId/" + prop.getProperty("testSuiteID") + "/TestCase";
+		
+		System.out.println(path);
 		RestAssured.baseURI = prop.getProperty("url") + path;
+		System.out.println(RestAssured.baseURI);
 		Response response = given().auth().preemptive().basic(prop.getProperty("userID"), prop.getProperty("password"))
 				.header("content-type", "application/json").queryParams(param).get().then().extract().response();
+		
+		System.out.println(response);
+
 		JsonPath jsonPath = response.jsonPath();
 		int length = jsonPath.getInt("value.size()");
 		int expectedPATCID = 0;
@@ -89,12 +95,22 @@ public class AzureUtils {
 		jsonResultObject.put("outcome", testCasePassOrFailValue);
 		jsonObject.put("results", jsonResultObject);
 		requestBody.add(jsonObject);
-		String path = "/Microsoft%20Product%20Server%20and%20Technologies/Synoverge%20QAL/_apis/testplan/Plans/" + prop.getProperty("testPlanID")
-				+ "/Suites/" + prop.getProperty("testSuiteID") + "/TestPoint";
+		String path =  "Microsoft%20Product%20Server%20and%20Technologies/CICDPipeLineQA/_testPlans/define?planId/" + prop.getProperty("testPlanID")
+		+ "/suiteId/" + prop.getProperty("testSuiteID") + "/TestPoint";
+		
+		System.out.println(path);
+
+		
 		RestAssured.baseURI = prop.getProperty("url") + path;
+		
+		System.out.println(RestAssured.baseURI);
+
 		Response response = given().auth().preemptive().basic(prop.getProperty("userID"), prop.getProperty("password"))
 				.header("content-type", "application/json").queryParams(param).body(requestBody.toJSONString()).patch()
 				.then().extract().response();
+		
+		System.out.println(response);
+
 		log.info("STEP : Update TestCase statusCode is: " + response.statusCode());
 	}
 

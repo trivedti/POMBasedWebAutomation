@@ -16,9 +16,9 @@ public class ClientTest extends TestBase {
 	 * @author - Trivetim
 	 */
 	@Test(priority = 1, groups = { "smoke", "regression" })
-	@TestCaseDetails(testCaseID = "TestCaseID : 185621640", testCaseTitle = "Verify client is added successfully", category = {
+	@TestCaseDetails(testCaseID = "TestCaseID : 185629309", testCaseTitle = "Verify client is added successfully", category = {
 			TestCaseCategoryType.SMOKE, TestCaseCategoryType.REGRESSION })
-	public void Verifyclientisaddedsuccessfully_185621640() {
+	public void Verifyclientisaddedsuccessfully_185629309() {
 
 		// Login for Tuft platform
 		boolean flagForSuccessfulLogin = homePage.loginOnTuftPlatform(getEmailAddress(), getPasswordAddress());
@@ -34,9 +34,9 @@ public class ClientTest extends TestBase {
 	 * @author - Trivetim
 	 */
 	@Test(priority = 1, groups = { "smoke", "regression" })
-	@TestCaseDetails(testCaseID = "TestCaseID : 185621641", testCaseTitle = "Verify client is added successfully", category = {
+	@TestCaseDetails(testCaseID = "TestCaseID : 185629310", testCaseTitle = "Verify client is not added successfully", category = {
 			TestCaseCategoryType.SMOKE, TestCaseCategoryType.REGRESSION })
-	public void Verifyclientisaddedsuccessfully_185621641() {
+	public void Verifyclientisaddedsuccessfully_185629310() {
 
 		// Login for Tuft platform
 		boolean flagForSuccessfulLogin = homePage.loginOnTuftPlatform(getEmailAddress(), getPasswordAddress());
