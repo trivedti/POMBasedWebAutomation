@@ -11,10 +11,10 @@ public abstract class ApplicationConstants {
 	public static final int EXP_WAIT = 30;
 	
 	//public static final String EMAIL = new String(Base64.getDecoder().decode("-m[bʊfj)\"));
-	public static final String EMAIL="test22.2multi@yopmail.com";
+	public static final String EMAIL="kiranpremium@mailinator.com";
 	
 	//public static final String PASSWORD =new String(Base64.getDecoder().decode("QyR8QHV0bzIwMjI="));
-	public static final String PASSWORD ="12345678";
+	public static final String PASSWORD ="Demo@123";
 	
 	/* To encode any String use below code
 	public static void main(String[] args) {
