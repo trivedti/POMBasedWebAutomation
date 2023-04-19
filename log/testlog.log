@@ -1,74 +1,17 @@
-2023-04-18 14:57:58,755 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-18 14:57:58,769 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-18 14:58:00,985 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 14:58:01,012 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
-2023-04-18 14:58:02,787 [main] INFO  io.github.bonigarcia.wdm.Downloader - Downloading https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
-2023-04-18 14:58:36,208 [main] INFO  io.github.bonigarcia.wdm.Downloader - Extracting binary from compressed file chromedriver_win32.zip
-2023-04-18 14:58:36,477 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 14:58:53,290 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 14:58:53,291 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-18 14:58:53,534 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
-2023-04-18 14:58:53,676 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
-2023-04-18 14:58:53,863 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
-2023-04-18 14:59:30,368 [main] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
-2023-04-18 15:03:21,270 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-18 15:03:21,275 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-18 15:03:21,748 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 15:03:21,758 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 15:03:32,650 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 15:03:32,650 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-18 15:03:33,118 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
-2023-04-18 15:03:33,456 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
-2023-04-18 15:03:33,633 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
-2023-04-18 15:04:09,825 [main] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
-2023-04-18 15:04:09,840 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 15:04:09,847 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 15:04:20,211 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 15:04:20,212 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-18 15:04:20,405 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
-2023-04-18 15:04:20,618 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
-2023-04-18 15:04:20,921 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
-2023-04-18 15:04:57,298 [main] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
-2023-04-18 15:08:08,724 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-18 15:08:08,731 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-18 15:08:09,184 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 15:08:09,194 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 15:08:21,646 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 15:08:21,646 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-18 15:08:21,854 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
-2023-04-18 15:08:21,985 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
-2023-04-18 15:08:22,117 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
-2023-04-18 15:08:58,575 [main] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
-2023-04-18 15:08:58,596 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 15:08:58,611 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 15:09:04,881 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 15:09:04,881 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-18 15:17:33,951 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-18 15:17:33,957 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-18 15:17:34,469 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 15:17:34,481 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 15:17:45,674 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 15:17:45,674 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-18 15:17:46,033 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Email address entered test22.2multi@yopmail.com
-2023-04-18 15:17:46,233 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Password entered
-2023-04-18 15:17:46,528 [TestNG-test=Regression_Test-1] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
-2023-04-18 15:20:40,717 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-18 15:20:40,724 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-18 15:20:41,237 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 15:20:41,252 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 15:20:45,763 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 15:20:45,764 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-18 15:41:29,453 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-18 15:41:29,459 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-18 15:42:13,165 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-18 15:42:13,174 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-18 15:42:13,673 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 15:42:13,685 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 15:42:18,992 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 15:42:18,993 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-18 16:00:40,560 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-18 16:00:40,566 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-18 16:00:41,126 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-18 16:00:41,144 [TestNG-test=Regression_Test-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-18 16:00:59,820 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-18 16:00:59,822 [TestNG-test=Regression_Test-1] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
+2023-04-19 14:34:44,727 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2023-04-19 14:34:44,743 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2023-04-19 14:34:45,185 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+2023-04-19 14:34:45,199 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-19 14:35:06,457 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2023-04-19 14:35:06,458 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
+2023-04-19 14:35:06,796 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered kiranpremium@mailinator.com
+2023-04-19 14:35:07,003 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
+2023-04-19 14:35:07,257 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2023-04-19 14:35:12,802 [main] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
+2023-04-19 14:35:20,485 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+2023-04-19 14:35:20,492 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-19 14:35:41,823 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2023-04-19 14:35:41,824 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
+2023-04-19 14:35:42,011 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered kiranpremium@mailinator.com
+2023-04-19 14:35:42,191 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
+2023-04-19 14:35:42,385 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
