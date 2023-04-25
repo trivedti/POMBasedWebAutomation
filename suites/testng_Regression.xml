@@ -2,7 +2,10 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
 <suite name="Suite" parallel="classes" thread-count="1">
+<listeners>
+<listener class-name ="extentlistners.Extentlistners"></listener>
 
+</listeners>
 	<test name="Regression_Test">
 		<groups>
 			<run>

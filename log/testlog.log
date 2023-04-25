@@ -1,17 +1,20 @@
-2023-04-19 14:34:44,727 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
-2023-04-19 14:34:44,743 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
-2023-04-19 14:34:45,185 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-19 14:34:45,199 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-19 14:35:06,457 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-19 14:35:06,458 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-19 14:35:06,796 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered kiranpremium@mailinator.com
-2023-04-19 14:35:07,003 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
-2023-04-19 14:35:07,257 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
-2023-04-19 14:35:12,802 [main] INFO  com.syno.pages.ClientPage - STEP: On Client management page.
-2023-04-19 14:35:20,485 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
-2023-04-19 14:35:20,492 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
-2023-04-19 14:35:41,823 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
-2023-04-19 14:35:41,824 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
-2023-04-19 14:35:42,011 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered kiranpremium@mailinator.com
-2023-04-19 14:35:42,191 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
-2023-04-19 14:35:42,385 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2023-04-25 17:02:56,946 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2023-04-25 17:02:56,959 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2023-04-25 17:04:40,999 [main] INFO  com.syno.pages.HomePage - STEP: Home Page Locators loaded into memory
+2023-04-25 17:04:41,004 [main] INFO  com.syno.pages.ClientPage - STEP: Clients Page Locators loaded into memory
+2023-04-25 17:04:41,394 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+2023-04-25 17:04:41,406 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 17:04:48,431 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2023-04-25 17:04:48,432 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
+2023-04-25 17:04:48,665 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered kiranpremium@mailinators.com
+2023-04-25 17:04:48,833 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
+2023-04-25 17:04:49,047 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2023-04-25 17:05:25,616 [main] INFO  com.syno.base.ITestListeners - STEP: chrome Closed
+2023-04-25 17:05:25,630 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+2023-04-25 17:05:25,637 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\trivetim\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 17:05:31,990 [main] INFO  com.syno.base.ITestListeners - STEP:chrome browser launched
+2023-04-25 17:05:31,990 [main] INFO  com.syno.base.ITestListeners - STEP:https://uat.tuftapp.com/authentication/login loaded
+2023-04-25 17:05:32,178 [main] INFO  com.syno.pages.HomePage - STEP: Email address entered kiranpremium@mailinators.com
+2023-04-25 17:05:32,328 [main] INFO  com.syno.pages.HomePage - STEP: Password entered
+2023-04-25 17:05:32,595 [main] INFO  com.syno.pages.HomePage - STEP: Click on Log-in button
+2023-04-25 17:06:08,771 [main] INFO  com.syno.base.ITestListeners - STEP: chrome Closed

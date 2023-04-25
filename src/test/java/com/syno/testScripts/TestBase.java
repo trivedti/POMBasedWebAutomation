@@ -36,7 +36,7 @@ public class TestBase {
 	 * @return String - emailID
 	 */
 	String getEmailAddress(){
-		return ApplicationConstants.EMAIL;
+		return ApplicationConstants.emailID;
 	}
 
 
